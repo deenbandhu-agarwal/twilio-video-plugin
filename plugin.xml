@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <plugin xmlns="http://www.phonegap.com/ns/plugins/1.0"
-        id="twilio-video-plugin"
+        id="twilio.video.plugin"
         version="0.7.0">
 
   <name>Twilio Video Plugin</name>
