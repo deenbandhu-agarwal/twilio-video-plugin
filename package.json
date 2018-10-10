@@ -1,5 +1,5 @@
 {
-  "name": "cordova-plugin-hello",
+  "name": "wilio Video Plugin",
   "version": "0.1.0",
   "description": "A sample for a new cordova plugin",
   "cordova": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/deenbandhu-agarwal/twilio-video-plugin.git"
+    "url": "git+https://github.com/deenbandhu-agarwal/twilio-video-plugin.git"
   },
   "keywords": [
     "cordova",
