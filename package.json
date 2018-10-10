@@ -1,5 +1,5 @@
 {
-  "name": "wilio Video Plugin",
+  "name": "Twilio Video Plugin",
   "version": "0.1.0",
   "description": "A sample for a new cordova plugin",
   "cordova": {
