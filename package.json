@@ -1,0 +1,24 @@
+{
+  "name": "cordova-plugin-hello",
+  "version": "0.1.0",
+  "description": "A sample for a new cordova plugin",
+  "cordova": {
+    "id": "twilio-video-plugin",
+    "platforms": [
+      "android",
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.com:deenbandhu-agarwal/twilio-plugin.git"
+  },
+  "keywords": [
+    "cordova",
+    "plugin",
+    "hello",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Deenbandhu",
+  "license": "Apache-2",
+}
