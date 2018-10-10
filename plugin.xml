@@ -19,7 +19,7 @@
 
     <config-file target="res/xml/config.xml" parent="/*">
       <feature name="Test">
-        <param name="android-package" value="com.example.plugin.Test"/>
+        <param name="android-package" value="com.deenbandhu.plugin.Test"/>
       </feature>
     </config-file>
 
